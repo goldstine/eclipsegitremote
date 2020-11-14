@@ -15,14 +15,14 @@ public class CoExampleTest {
 	private CoExample coExample;
 	@Test
 	public void getName() {
-		System.out.println(coExample.getName());
+		//System.out.println(coExample.getName());
 	}
 	@Test
 	public void getAge() {
-		System.out.println(coExample.getAge());
+		//System.out.println(coExample.getAge());
 	}
 	@Test
 	public void getAddress() {
-		System.out.println(coExample.getAddress());
+		//System.out.println(coExample.getAddress());
 	}
 }
